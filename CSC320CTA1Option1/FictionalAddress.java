@@ -8,10 +8,7 @@ public class FictionalAddress {
 		String city = "Ultramarine";
 		String zipCode = "12012";
 		
-		System.out.println(firstName + "\n" + lastName + "\n" + address + "\n"+ city + "\n" + zipCode);
-		
-		
-
+		System.out.println("First Name: " + firstName + "\n" + "Last Name: " + lastName + "\n" + "Address: " + address + "\n"+ "City: " + city + "\n" + "Zipcode: " + zipCode);
 	}
 
 }
